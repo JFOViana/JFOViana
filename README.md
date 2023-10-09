@@ -6,7 +6,7 @@
 
 ![José GitHub stats](https://github-readme-stats.vercel.app/api?username=JFOViana&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JFOViana&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JFOViana&hide_progress=true&theme=dracula)
 
 ### Tecnologias que uso no meu dia
 
